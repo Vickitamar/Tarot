@@ -1,0 +1,17 @@
+.wrapper {
+	height: 1260px;
+	background-image: url('background.jpg');
+}
+
+.container {
+	margin-top: 300px;
+}
+
+h2, h3, label, span, p {
+	color: white;
+}
+
+span {
+	cursor: pointer;
+}
+
